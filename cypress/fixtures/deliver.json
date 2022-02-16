@@ -1,0 +1,55 @@
+{
+  "signup": {
+    "name": "Roberto Filho",
+    "cpf": "03298723412",
+    "email": "roberto@qaninja.com",
+    "whatsapp": "67822342234",
+
+    "address": {
+      "postalcode": "58030902",
+      "street": "Avenida Amazonas",
+      "number": "111",
+      "details": "Ap 404",
+      "district": "Estados",
+      "city_state": "João Pessoa/PB"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+
+  "cpf_inv": {
+    "name": "João Silva",
+    "cpf": "x32987234AA",
+    "email": "joao@qaninja.com",
+    "whatsapp": "67822342234",
+
+    "address": {
+      "postalcode": "58030902",
+      "street": "Avenida Amazonas",
+      "number": "111",
+      "details": "Ap 404",
+      "district": "Estados",
+      "city_state": "João Pessoa/PB"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+
+  "email_inv": {
+    "name": "Roberto Filho",
+    "cpf": "03298723412",
+    "email": "roberto.com.br",
+    "whatsapp": "67822342234",
+
+    "address": {
+      "postalcode": "58030902",
+      "street": "Avenida Amazonas",
+      "number": "111",
+      "details": "Ap 404",
+      "district": "Estados",
+      "city_state": "João Pessoa/PB"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
