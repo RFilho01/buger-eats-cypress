@@ -5,12 +5,6 @@ import signupFactory from '../factories/SignupFatory';
 
 describe('Signup', () => {
 
-  // beforeEach(function()  {
-  //   cy.fixture('deliver').then((d) => {
-  //     this.deliver = d;
-  //   });
-  // });
-
   it('User should be deliver', function () {
     var deliver = signupFactory.deliver();
     const expectedMessage = 'Recebemos os seus dados. Fique de olho na sua caixa de email, pois e em breve retornamos o contato.';
