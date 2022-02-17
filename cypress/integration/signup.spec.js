@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 import signup from '../pages/SignUpPage';
-import signupFactory from '../factories/SignupFatory';
+import signupFactory from '../factories/SignupFactory';
 
 describe('Signup', () => {
 

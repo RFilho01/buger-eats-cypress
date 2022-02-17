@@ -17,7 +17,7 @@ export default {
       address: {
         postalcode: '58030902',
         street: 'Avenida Amazonas',
-        number: '111',
+        number: '123',
         details: 'Ap 404',
         district: 'Estados',
         city_state: 'João Pessoa/PB'
